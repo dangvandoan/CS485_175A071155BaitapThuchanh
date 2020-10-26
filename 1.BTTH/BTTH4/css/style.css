@@ -1,0 +1,45 @@
+input {
+    margin: 0 0 1rem 0;
+    border-radius: 5px ;
+}
+.save {
+    background-color: rgb(8, 85, 148);
+    color: white;
+}
+.name , .salary ,.birthday {
+    width: 40rem;
+    height: 2rem;
+    font-weight: bold;
+}
+.error {
+    color: red;
+}
+textarea {
+    width: 40rem;
+    height: 4rem;
+    margin: 0 0 1rem 0;
+    border-radius: 1px;
+}
+label {
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
+.Add {
+    float: right;
+}
+h5{
+    color: white;
+}
+a:link {
+    text-decoration: none;
+}
+button {
+    background-color: rgb(21, 230, 66);
+    border-radius: 5px;
+    float: right;
+}
+
+
