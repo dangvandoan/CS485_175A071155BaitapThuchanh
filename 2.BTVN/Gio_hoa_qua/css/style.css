@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#trai img {
+    width: 100px;
+    height: 100px;
+}
+
+#phai img {
+    width: 500px;
+    height: 500px;
+}
+
+#trai col-sm-4 {
+    align-items: center;
+}
+
+#phai img {
+    width: 100px;
+    height: 100px;
+}
