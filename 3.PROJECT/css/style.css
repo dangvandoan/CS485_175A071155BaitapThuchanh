@@ -1,0 +1,57 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    ;
+}
+
+
+/* HEADER */
+
+.top_header {
+    background-color: #003478;
+}
+
+header nav {
+    margin-left: 345px;
+}
+
+.top_header nav li,
+a,
+span {
+    color: white;
+}
+
+.top_header nav ul .li_text {
+    margin-top: 5px;
+}
+
+.top_header nav ul .language {
+    margin: 8px 0 0 8px;
+}
+
+.top_header nav form {
+    margin-left: 36px;
+}
+
+.top_header nav div {
+    margin-left: 42px;
+}
+
+.main_header .logo {
+    margin-left: 210px;
+}
+
+.list-nav,
+.list-sub {
+    list-style: none;
+}
+
+.list-nav a,
+.list-sub a {
+    color: black;
+}
+
+header .slder {
+    width: 50%;
+    margin-left: 10px;
+}
